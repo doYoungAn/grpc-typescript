@@ -1,0 +1,19 @@
+{
+  "name": "grpc-typescript",
+  "version": "1.0.0",
+  "description": "grpc typescript 연습 프로젝트",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doYoungAn/grpc-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doYoungAn/grpc-typescript/issues"
+  },
+  "homepage": "https://github.com/doYoungAn/grpc-typescript#readme"
+}
